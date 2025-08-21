@@ -1,4 +1,3 @@
-Here’s a ready-to-paste `README.md` in Markdown:
 
 ```markdown
 # Professional Portfolio
@@ -38,3 +37,4 @@ If you have any questions or would like to collaborate, feel free to reach out:
 
 ---
 ```
+
