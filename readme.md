@@ -1,5 +1,4 @@
 
-```markdown
 # Professional Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and the diverse range of projects I have worked on, from WordPress development to JavaScript applications.
@@ -36,5 +35,5 @@ If you have any questions or would like to collaborate, feel free to reach out:
 - **WhatsApp:** [Send a message](https://wa.me/573217148350?text=Hi%2C%20I%27m%20reaching%20out%20from%20your%20portfolio%20site.)
 
 ---
-```
+
 
